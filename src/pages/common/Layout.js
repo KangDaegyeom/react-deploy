@@ -1,5 +1,5 @@
 import Header from "./Header";
-import Sidebar from "./Sidebar";
+import Sidebar from "./SideBar";
 import {Outlet} from "react-router-dom";
 import Footer from "./Footer";
 import {useEffect} from "react";
